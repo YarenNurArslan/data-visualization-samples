@@ -1,2 +1,2 @@
-# data-visualization-samples
+# Data Visualization
 this repo includes data visualization examples on python
